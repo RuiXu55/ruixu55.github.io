@@ -689,7 +689,7 @@ section {
   padding: 20px 0;
   color: #ffffff;
   max-height: 400px;
-  overflow: hidden;
+  /* overflow: hidden; */
   transition: max-height 0.5s ease-in-out;
 }
 
